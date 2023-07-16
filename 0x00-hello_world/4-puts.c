@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
- * A program which display by using puts
- * main = entry point
- *
- * return: always 0 (success)
+ *main = entry point of the program, a c program.
+ *return = 0, back to user
  */
 int main(void)
 {
